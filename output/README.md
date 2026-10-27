@@ -32,6 +32,8 @@ All shortcuts/keymaps can be found [in the documentation on the website](https:/
 
 # Features
 
+> Fork of [dariogriffo/helix-debian](https://github.com/dariogriffo/helix-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 - Vim-like modal editing
 - Multiple selections
 - Built-in language server support
